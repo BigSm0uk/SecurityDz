@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "Hi00pf1OQEYOphflAzq2k8S6VLIZLpuYOhDYxEo7/dQekxYr4/DyGUt+R++4WItGG2w4SrMHj5OjQUD0V8+RBA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Denis\\Desktop\\4 курс\\2 семестр\\ЗащитаИнформации\\DZ\\SecurityDz\\SecurityDz\\SecurityDz.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Denis\\.nuget\\packages\\portable.bouncycastle\\1.9.0\\portable.bouncycastle.1.9.0.nupkg.sha512",
+    "C:\\Users\\Denis\\.nuget\\packages\\spectre.console\\0.48.0\\spectre.console.0.48.0.nupkg.sha512",
+    "C:\\Users\\Denis\\.nuget\\packages\\spectre.console.cli\\0.48.0\\spectre.console.cli.0.48.0.nupkg.sha512",
+    "C:\\Users\\Denis\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512"
+  ],
+  "logs": []
+}
